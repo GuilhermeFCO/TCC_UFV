@@ -7,5 +7,5 @@ Federal de Viçosa.
 <p>
 Para utilizar você deverá baixar o arquivo .zip, e daí começar a escrever 
 utilizando o software RStudio que pode ser baixado gratuitamente. 
-<a href="https://rstudio.com/products/rstudio/download/#download" target="_blank">Download RStudio</a>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 </p>
