@@ -1,3 +1,4 @@
+output_dir: "book"
 book_filename: "TCC_UFV"
 delete_merged_file: true
 language:

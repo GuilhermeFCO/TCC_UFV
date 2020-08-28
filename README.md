@@ -5,7 +5,9 @@ linguagens como R, Rmarkdown e LaTeX, com padrão exigido pela Universidade
 Federal de Viçosa. Para utilizar este padrão siga os passos abaixo.
 </p>
 
-## Instalando
+# Manual
+
+## Instalação
 <p>
 Primeiramente você deve instalar o software R a partir da versão 4.0. <strong>Clique abaixo segurando o 'ctrl'.</strong>
 
