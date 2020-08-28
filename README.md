@@ -8,13 +8,12 @@ instalações.
 
 ## Instalando
 <p>
-Primeiramente você deve instalar o software R. <strong>Clique abaixo segurando o "ctrl"</strong>
-</p>
-
-```
+Primeiramente você deve instalar o software R. <strong>Clique abaixo segurando o "ctrl"</strong><br>
 <a href="https://cran-r.c3sl.ufpr.br/">Download R para Windows</a><br>
 <a href="https://cran-r.c3sl.ufpr.br/bin/linux/">Download R para Linux</a>
-```
+</p>
+
+
 
 
 Com o software já instalado, passamos para o próximo passo.<br>
