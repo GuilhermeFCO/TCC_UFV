@@ -3,7 +3,6 @@
 Este repositório tem o objetivo em ser um padrão para escrita do TCC em
 linguagens como R, Rmarkdown e LaTeX, com padrão exigido pela Universidade 
 Federal de Viçosa. Para utilizar este padrão siga os passos abaixo.
-instalações.
 </p>
 
 ## Instalando
