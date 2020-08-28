@@ -2,7 +2,9 @@
 <p>
 Este repositório tem o objetivo em ser um padrão para escrita do TCC em
 linguagens como R, Rmarkdown e LaTeX, com padrão exigido pela Universidade 
-Federal de Viçosa. Para utilizar este padrão siga os passos abaixo.
+Federal de Viçosa. Com esse padrão você irá poder adcionar gráficos, imagens, tabelas,
+códigos, qualquer pacote R no seu TCC de forma fácil.
+Para utilizar este padrão siga os passos abaixo.
 </p>
 
 # Manual
