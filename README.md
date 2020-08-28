@@ -5,7 +5,9 @@ linguagens como R, Rmarkdown e Látex, com padrão exigido pela Universidade
 Federal de Viçosa. Para utilizar este padrão vocÊ precisará fazer algumas
 instalações.
 </p>
+
 ## Instalando
+
 <p>
 Primeiramente você deve instalar o software R. <strong>Clique abaixo segurando o "ctrl"</strong>
 ```
