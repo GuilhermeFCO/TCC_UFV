@@ -1,0 +1,59 @@
+--- 
+title: "Padrão para escrita TCC-UFV"
+author: "Guilherme Fernandes"
+date: "04 de Setembro de 2020"
+site: bookdown::bookdown_site
+documentclass: tcc
+classoption: fleqn,ebook
+bibliography: [tcc.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Este é um padrão para escrita do TCC da Universidade Federal de Viçosa em R"
+---
+\begin{acknowledgement} 
+
+  % Escreva aqui os agradecimentos
+  Agradeço as nove musas inspiradoras Calíope, Clio, Erato, Euterpe, Melpômene,
+  Polímnia, Tália, Terpsícore, Urânia.
+
+\end{acknowledgement}
+\begin{Resumo}
+
+% Substitua o texto aleatório pelo resumo da sua dissertação.
+
+Esse texto é um exemplo do uso da classe \ThisClass{} criada
+para escrever o Trabalho de Conclusão de Curso na UFV com o uso do \LaTeX{}.
+
+O Capítulo~\ref{cap:introducao} contem uma apresentação 
+da classe, como ela deve ser usada e os comandos criados por 
+ela. Além desse texto recomento também ler com cuidado os comentários escritos
+dento do arquivo \texfile{}, eles trazem algumas regras e 
+sugestões sobre como preencher algumas partes do texto.
+
+Grande parte do texto é gerado aleatoriamente apenas para preencher as páginas. 
+Entretanto, dentro desse texto aleatório existem muitas equações matemáticas, 
+figuras e tabelas que podem ser usadas como exemplos caso deseja incluir
+algo semelhante em sua dissertação.
+
+\end{Resumo}
+\begin{Abstract}
+
+% Substitua o texto aleatório pelo abstract da sua dissertação.
+
+Offices parties lasting outward nothing age few resolve. Impression to
+discretion understood to we interested he excellence. Him remarkably use
+projection collecting. Going about eat forty world has round miles. Attention
+affection at my preferred offending shameless me if agreeable. Life lain held
+calm and true neat she. Much feet each so went no from. Truth began maids linen
+an mr to after. 
+
+It allowance prevailed enjoyment in it. Calling observe for who pressed raising
+his. Can connection instrument astonished unaffected his motionless preference.
+Announcing say boy precaution unaffected difficulty alteration him. Above be
+would at so going heard. Engaged at village at am equally proceed. Settle nay
+length almost ham direct extent. Agreement for listening remainder get attention
+law acuteness day. Now whatever surprise resolved elegance indulged own way
+outlived.  
+\end{Abstract}
+
+\tableofcontents
