@@ -1,6 +1,0 @@
-# Introdução {#intro}
-
-\board{Tales de Mileto}%
-      {Leonhard Euler}%
-      {Ada Lovelace \\ (Coorientadora)}%
-      {Carl Friedrich Gauss \\ (Orientador)}
