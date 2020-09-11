@@ -1,8 +1,8 @@
 # TCC Universidade Federal de Viçosa
 
-<center>
+<p align="center">
 Este repositório tem o objetivo em ser uma alternativa para a escrita do TCC e demais trabalhos referentes a Universidade Federal de Viçosa. Por meio dele você conseguirá escrever de maneira simplificada como se estivesse redigindo seu trabalho em um bloco de notas, entretanto, no final obterá o padrão exigido pela UFV. Poderão ser utilizadas as linguagens R, com todos os seus pacotes, Rmarkdown, Markdown e LaTeX de modo conjunto, facilitando assim a escrita, criação de gráficos, tabelas e todas as demais ferramentas disponibilizadas por elas. Após a finalização da escrita do trabalho, será gerado um site de fácil publicação e o PDF para que possa ser impresso.
-</center>
+</p>
 
 Até os dias atuais, o curso de Licenciatura em Matemática da UFV - Campus Florestal possui um protótipo para escrita do Trabalho de Conclusão do Curso criado na linguagem LaTeX, elaborado pelo professor [Luis Alberto D'Afonseca](http://lattes.cnpq.br/9442409703964384), disponível no [site da graduação](http://www.mat.caf.ufv.br/?page_id=7). Embasado nesse modelo já existente, ele foi criado com o pacote [Bookdown](https://github.com/rstudio/bookdown) para que pudesse ser escrito não somente em LaTeX, mas também nas linguagens citadas acima, com o diferencial o R e seus pacotes.
 
