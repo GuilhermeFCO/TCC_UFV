@@ -5,7 +5,7 @@ Este repositório tem o objetivo em ser uma alternativa para a escrita do TCC e 
 </p>
 
 <p align="justify">
-Até os dias atuais, o curso de Licenciatura em Matemática da UFV - Campus Florestal possui um protótipo para escrita do Trabalho de Conclusão do Curso criado na linguagem LaTeX, elaborado pelo professor <a href="http://lattes.cnpq.br/9442409703964384">Luis Alberto D'Afonseca</a>, disponível no <a href="http://www.mat.caf.ufv.br/?page_id=7">site da graduação</a>. Embasado nesse modelo já existente, este novo modelo foi criado com o pacote <a href="https://github.com/rstudio/bookdown">Bookdown</a> para que pudesse ser escrito não somente em LaTeX, mas também nas linguagens citadas acima, com o diferencial o R e seus pacotes.
+Até os dias atuais, o curso de Licenciatura em Matemática da UFV - Campus Florestal possui um protótipo para escrita do Trabalho de Conclusão do Curso criado na linguagem LaTeX, elaborado pelo professor <a href="http://lattes.cnpq.br/9442409703964384">Luis Alberto D'Afonseca</a>, disponível no <a href="http://www.mat.caf.ufv.br/?page_id=7">site da graduação</a>. Embasado nesse modelo já existente, este novo modelo foi criado com o pacote <a href="https://github.com/rstudio/bookdown">Bookdown</a> para que pudesse ser escrito não somente em LaTeX, mas também nas linguagens citadas acima, com o diferencial mais importante o R e seus pacotes.
 </p>
 
 <p align="justify">
