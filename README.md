@@ -13,7 +13,7 @@ Até os dias atuais, o curso de Licenciatura em Matemática da UFV - Campus Flor
 </p>
 
 <p align="justify">
-Espero que todos utilizem, consigam fazer o seu TCC e enfim receber o tão desejado diploma.
+Espero que todos utilizem, consigam fazer o seu TCC e enfim recebam o tão desejado diploma.
 </p>
 
 <p align="justify">
