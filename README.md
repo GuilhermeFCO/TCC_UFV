@@ -1,6 +1,6 @@
 # TCC Universidade Federal de Viçosa
 
-<p align="center">
+<p align="justify">
 Este repositório tem o objetivo em ser uma alternativa para a escrita do TCC e demais trabalhos referentes a Universidade Federal de Viçosa. Por meio dele você conseguirá escrever de maneira simplificada como se estivesse redigindo seu trabalho em um bloco de notas, entretanto, no final obterá o padrão exigido pela UFV. Poderão ser utilizadas as linguagens R, com todos os seus pacotes, Rmarkdown, Markdown e LaTeX de modo conjunto, facilitando assim a escrita, criação de gráficos, tabelas e todas as demais ferramentas disponibilizadas por elas. Após a finalização da escrita do trabalho, será gerado um site de fácil publicação e o PDF para que possa ser impresso.
 </p>
 
