@@ -1,4 +1,5 @@
 <div style="text-align: justify">
+  
 # TCC Universidade Federal de Viçosa
 
 Este repositório tem o objetivo em ser uma alternativa para a escrita do TCC e demais trabalhos referentes a Universidade Federal de Viçosa. Por meio dele você conseguirá escrever de maneira simplificada como se estivesse redigindo seu trabalho em um bloco de notas, entretanto, no final obterá o padrão exigido pela UFV. Poderão ser utilizadas as linguagens R, com todos os seus pacotes, Rmarkdown, Markdown e LaTeX de modo conjunto, facilitando assim a escrita, criação de gráficos, tabelas e todas as demais ferramentas disponibilizadas por elas. Após a finalização da escrita do trabalho, será gerado um site de fácil publicação e o PDF para que possa ser impresso.
@@ -26,4 +27,5 @@ Para a utilização deste padrão criei uma playlist no YouTube e um manual em P
 Primeiramente queria agradecer ao meu orientador [Fernando de Souza Bastos](https://github.com/fsbmat-ufv) por sempre estar me ajudando em qual seja o assunto ou dificuldade, a aprender cada vez mais sobre o R e sua comunidade, e pela consideração que tem comigo e todos os seus alunos. :smiley:  :muscle:
 
 Agradeço também a Júlia Letícia Gonçalves Martins na ajuda na escrita desse resumo e do manual para a utilização do modelo, e todo o apoio nos projetos da minha vida. :heart:
+
 </div>
