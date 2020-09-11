@@ -4,9 +4,9 @@ Este repositório tem o objetivo em ser uma alternativa para a escrita do TCC e 
 
 Até os dias atuais, o curso de Licenciatura em Matemática da UFV - Campus Florestal possui um protótipo para escrita do Trabalho de Conclusão do Curso criado na linguagem LaTeX, elaborado pelo professor [Luis Alberto D'Afonseca](http://lattes.cnpq.br/9442409703964384), disponível no [site da graduação](http://www.mat.caf.ufv.br/?page_id=7). Embasado nesse modelo já existente, ele foi criado com o pacote [Bookdown](https://github.com/rstudio/bookdown) para que pudesse ser escrito não somente em LaTeX, mas também nas linguagens citadas acima, com o diferencial o R e seus pacotes.
 
-É válido ressaltar que este padrão pode ser utilizado não somente pelo curso de Licenciatura em Matemática - Campus Florestal, mas sim por todos os cursos dos campus da Universidade Federal de Viçosa.
-Espero que todos utilizem, consigam fazer o seu TCC e enfim receber o tão desejado diploma.
-Qualquer comentário ou dúvida é só criar um [issue](https://github.com/GuilhermeFCO/TCC_UFV/issues) que estarei respondendo o mais rápido possível. 
+É válido ressaltar que este padrão pode ser utilizado não somente pelo curso de Licenciatura em Matemática - Campus Florestal, mas sim por todos os cursos dos campus da Universidade Federal de Viçosa. <br />
+Espero que todos utilizem, consigam fazer o seu TCC e enfim receber o tão desejado diploma. <br />
+Qualquer comentário ou dúvida é só criar um [issue](https://github.com/GuilhermeFCO/TCC_UFV/issues) que estarei respondendo o mais rápido possível. <br />
 Se este padrão te ajudou de alguma forma, se possível deem uma :star: neste repositório que fica no canto superior direito. Agradeço a todos :blush: :smile: :facepunch:
 
 # Utilização
