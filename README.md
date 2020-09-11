@@ -29,6 +29,7 @@ Se este padrão te ajudou de alguma forma, se possível deem uma :star: neste re
 <p align="justify">
 Para a utilização deste padrão criei uma playlist no YouTube e um manual que está disponível ne um site, mas também pode ser baixado como PDF, ensinando desde a instalação até a publicação do site se desejado.
 </p>
+
   - Playlist do YouTube
   - Manual de Utilização
 
