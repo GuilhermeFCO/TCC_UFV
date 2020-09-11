@@ -1,4 +1,4 @@
-<div style="text-align: justify">
+<div text-align:"justify">
   
 # TCC Universidade Federal de Viçosa
 
